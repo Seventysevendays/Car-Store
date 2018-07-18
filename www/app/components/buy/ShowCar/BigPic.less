@@ -1,0 +1,70 @@
+.bigPicBox{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    .bigImg{
+        width: 100%;
+        position: absolute;
+        top:50%;
+        left:50%;
+        transform:translate(-50%,-50%);
+    }
+    .loading{
+        width: 100px;
+        height: 100px;
+        background-image: url(/src/images/loading.svg);
+        position: absolute;
+        top:50%;
+        left:50%;
+        transform:translate(-50%,-50%);
+        z-index: 9999;
+    }
+    .left{
+        position: absolute;
+        width: 50%;
+        height: 100%;
+        left: 0;
+        cursor: url(/src/images/picture-cursor-left.cur),auto;
+
+    }
+    .right{
+        position: absolute;
+        right: 0;
+        width: 50%;
+        height: 100%;
+        cursor: url(/src/images/picture-cursor-right.cur),auto
+    }
+    .start{
+        cursor: pointer;
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        bottom: 40px;
+        left: 20px;
+        background: rgba(0, 0, 0, 0.5);
+        border-radius: 6px;
+        display: flex;
+        justify-content: center;
+        img{
+            width: 50%;
+        }
+    }
+    .pause{
+        cursor: pointer;
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        bottom: 40px;
+        left: 90px;
+        background: rgba(0, 0, 0, 0.5);
+        border-radius: 6px;
+        display: flex;
+        justify-content: center;
+        img{
+            width: 50%;
+        }
+    }
+    .toggle{
+      opacity: 0.5;
+    }
+}
