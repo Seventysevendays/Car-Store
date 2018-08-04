@@ -34,6 +34,8 @@
 
 ##### 汽车列表和栅格视图的切换
 <img src="https://github.com/Seventysevendays/Car-Store/blob/master/captures/栅格视图.png" width="500"/>
+<img src="https://github.com/Seventysevendays/Car-Store/blob/master/captures/栅格视图1.png" width="500"/>
+<img src="https://github.com/Seventysevendays/Car-Store/blob/master/captures/栅格视图2.png" width="500"/>
 
 ##### 用户自定义显示内容
 <img src="https://github.com/Seventysevendays/Car-Store/blob/master/captures/弹出层.png" width="500"/>
