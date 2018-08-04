@@ -25,11 +25,13 @@
 
 #### 1. 筛选车模块：antd组件提高开发效率
 <img src="https://github.com/Seventysevendays/Car-Store/blob/master/captures/front.png" width="500"/>
+
 #### 筛选品牌、系列、颜色等功能，涵盖单选框、多选框、范围筛选等
 <img src="https://github.com/Seventysevendays/Car-Store/blob/master/captures/复选框.png" width="500"/>
 <img src="https://github.com/Seventysevendays/Car-Store/blob/master/captures/级联选择.png" width="500"/>
 <img src="https://github.com/Seventysevendays/Car-Store/blob/master/captures/滑动条.png" width="500"/>
 <img src="https://github.com/Seventysevendays/Car-Store/blob/master/captures/日期等.png" width="500"/>
+
 ##### 汽车列表和栅格视图的切换
 <img src="https://github.com/Seventysevendays/Car-Store/blob/master/captures/栅格视图.png" width="500"/>
 ##### 用户自定义显示内容
