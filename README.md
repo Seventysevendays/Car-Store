@@ -58,6 +58,10 @@
 <img src="https://github.com/Seventysevendays/Car-Store/blob/master/captures/上传文件.png" width="500"/>
 <img src="https://github.com/Seventysevendays/Car-Store/blob/master/captures/上传完成.png" width="500"/>
 
+##### 上传后写入数据库，可以在卖车中看到
+<img src="https://github.com/Seventysevendays/Car-Store/blob/master/captures/上传后列表.png" width="500"/>
+<img src="https://github.com/Seventysevendays/Car-Store/blob/master/captures/详情展示.png" width="200"/><img src="https://github.com/Seventysevendays/Car-Store/blob/master/captures/上传后详情1.png" width="200"/><img src="https://github.com/Seventysevendays/Car-Store/blob/master/captures/上传后详情2.png" width="200"/><img src="https://github.com/Seventysevendays/Car-Store/blob/master/captures/上传后详情3.png" width="200"/>
+
 #### 3. 管理员模块
 
 ##### 管理员登录界面
