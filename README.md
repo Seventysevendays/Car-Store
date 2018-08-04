@@ -39,7 +39,7 @@
 <img src="https://github.com/Seventysevendays/Car-Store/blob/master/captures/弹出层.png" width="500"/>
 
 ##### 排序、分页
-<img src="https://github.com/Seventysevendays/Car-Store/blob/master/captures/列表视图.png" width="00"/>
+<img src="https://github.com/Seventysevendays/Car-Store/blob/master/captures/列表视图.png" width="500"/>
 
 ##### 单击进入单个汽车图集，图集涵盖：汽车不同部分切换、类似汽车推荐、小图展示区、大图展示区、切换图片、懒加载、自动轮播等功能
 <img src="https://github.com/Seventysevendays/Car-Store/blob/master/captures/汽车详情.png" width="500"/>
